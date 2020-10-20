@@ -1,4 +1,4 @@
-# Angular7Auth
+# angular7-template-driven-forms
 
 > This project is an example of implementing a basic authentication process with register, login and reset password using _template-driven form_ and two modules one for authentication and other to shared components.
 
